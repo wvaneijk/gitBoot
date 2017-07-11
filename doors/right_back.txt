@@ -1,7 +1,0 @@
-Je opdracht (kopieer mij, dat is makkelijker)
-- Branch deze repository
-- Maak een nieuwe .txt file, driver.txt, met daarin jouw naam
-- Commit deze 
-- Maak op je github een nieuwe repository aan
-- Push dit project naar je github repository met het volgende commando:
-"git push --set-upstream <jouw repository url> master"
