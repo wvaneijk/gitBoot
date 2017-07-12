@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 c1o2m3e4s i5n g6reen as well
+=======
+co2m3es 1in g3ree4n as well
+>>>>>>> myCar
